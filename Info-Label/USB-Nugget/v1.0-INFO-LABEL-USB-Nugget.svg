@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="BLACK-v2.1-DEV.svg"
+   sodipodi:docname="USB-Nugget.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -41,9 +41,9 @@
      showgrid="true"
      units="in"
      width="6in"
-     inkscape:zoom="1.1271739"
-     inkscape:cx="130.41466"
-     inkscape:cy="208.04243"
+     inkscape:zoom="1.1523547"
+     inkscape:cx="236.90622"
+     inkscape:cy="331.06126"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -384,31 +384,26 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="79.305153"
-       y="88.264999"
+       x="79.375"
+       y="92.709999"
        id="text2305"><tspan
          sodipodi:role="line"
-         x="79.305153"
-         y="88.264999"
-         style="stroke-width:0.264583"
-         id="tspan2318"><tspan
-   style="font-weight:bold;stroke-width:0.264583"
-   id="tspan2332">Hardware</tspan>: <tspan
-   id="tspan8894"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583">v2.1-Dev</tspan>  <tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
-   id="tspan29645">Color:</tspan> <tspan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
-   id="tspan37437">Black</tspan>  </tspan><tspan
-         sodipodi:role="line"
-         x="79.305153"
-         y="90.910835"
+         x="79.375"
+         y="92.709999"
          style="stroke-width:0.264583"
          id="tspan2328"><tspan
    style="font-weight:bold;stroke-width:0.264583"
+   id="tspan2332">Hardware</tspan>: <tspan
+   id="tspan8894"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583">v2.1-Dev</tspan>    <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="tspan29645">Color:</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+   id="tspan37437">Black    </tspan><tspan
+   style="font-weight:bold;stroke-width:0.264583"
    id="tspan29642">Software</tspan>: <tspan
    id="tspan8898"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583">v1.0-beta</tspan></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583">v1.1-beta</tspan></tspan></text>
     <text
        style="font-style:normal;font-weight:normal;font-size:8.10168px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect74385-2);fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.202542"
        id="text74383-6-1"
@@ -436,7 +431,7 @@
          sodipodi:role="line" /></text>
     <path
        style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 79.057499,85.155 H 145.7325"
+       d="M 79.057499,88.9 H 145.7325"
        id="path350893"
        inkscape:connector-curvature="0" />
     <text
@@ -504,7 +499,7 @@
        xml:space="preserve"
        id="flowRoot1423"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.39793056,8.7295524)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,9.9999999e-7,9.8550022)"><flowRegion
          id="flowRegion1425"><rect
            id="rect1427"
            width="260.70401"
@@ -512,7 +507,9 @@
            x="300"
            y="48" /></flowRegion><flowPara
          id="flowPara1429"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'">Plug in your RubberNugget and upload payloads over USB.  Payloads must end in .txt  and be uploaded under an OS / Category  subfolder.  Run up to 36 payloads in 3 clicks using the Nugget screen + buttons!</flowPara></flowRoot>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'">Plug the Nugget into your computer and upload payloads to the <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
+   id="flowSpan134727">NUGGET</flowSpan> drive.  Payloads must be in .txt format.  Use the  screen &amp; buttons to deploy your attacks!   We recommend using the OS &gt; Category &gt; Payload naming convention below.</flowPara></flowRoot>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1423-0"
@@ -530,7 +527,7 @@
        xml:space="preserve"
        id="flowRoot1423-09"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.63499763,40.105369)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-0.634999,42.240002)"><flowRegion
          id="flowRegion1425-6"><rect
            id="rect1427-3"
            width="261.60001"
@@ -540,17 +537,17 @@
          id="flowPara1429-8"
          style="line-height:1.5"><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
-           id="flowSpan7680">Use the RubberNugget Web UI to create, edit, and deploy payloads over WiFi!  To get started:  </flowSpan><flowSpan
+           id="flowSpan7680">Use the USB Nugget Web UI to create, edit, and deploy payloads over WiFi!  To get started:  </flowSpan><flowSpan
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
            id="flowSpan1467" /></flowPara><flowPara
          style="line-height:1.5"
          id="flowPara13369"><flowSpan
+   id="flowSpan34205"
+   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy'">·</flowSpan><flowSpan
+   id="flowSpan34207"
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"> Connect to the</flowSpan><flowSpan
    style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-   id="flowSpan13371"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
-   id="flowSpan13382"><flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy'"
-   id="flowSpan13961">·</flowSpan> Connect to the</flowSpan> RubberNugget</flowSpan> <flowSpan
+   id="flowSpan13371"> Nugget</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
    id="flowSpan7682">AP with password</flowSpan> <flowSpan
    style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
@@ -566,13 +563,13 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
    id="flowSpan7688"> in a web browser</flowSpan></flowPara></flowRoot>
     <g
-       transform="matrix(0.7655135,0,0,0.7655135,-68.187895,-79.118364)"
+       transform="matrix(0.7655135,0,0,0.7655135,-68.187895,-78.518364)"
        id="g2301">
       <g
          id="g2286"
          transform="translate(0,0.26130358)">
         <path
-           d="m 151.93741,123.07948 c 0.49612,0.50299 0.48417,1.30428 -0.008,1.79332 -8.5e-4,8.5e-4 -0.002,0.003 -0.003,0.003 l -0.56516,0.55801 c -0.49846,0.49216 -1.30431,0.48696 -1.79639,-0.0114 -0.49217,-0.49838 -0.48704,-1.30432 0.0114,-1.79641 l 0.31207,-0.30811 c 0.0827,-0.0817 0.22402,-0.0262 0.22753,0.0901 0.005,0.14815 0.0302,0.29711 0.0782,0.44111 0.0162,0.0488 0.004,0.1025 -0.0325,0.13862 l -0.11007,0.10867 c -0.2357,0.23272 -0.24547,0.61403 -0.0151,0.85201 0.23267,0.24033 0.6176,0.24419 0.85509,0.01 l 0.56516,-0.55793 c 0.23709,-0.23408 0.23852,-0.61488 0.005,-0.85098 -0.0308,-0.0311 -0.0618,-0.0553 -0.086,-0.0721 a 0.13402248,0.13402248 0 0 1 -0.0574,-0.10572 c -0.003,-0.0883 0.0291,-0.17913 0.0993,-0.24847 l 0.17707,-0.17483 c 0.0465,-0.0459 0.11885,-0.051 0.17211,-0.0134 a 1.2743042,1.2743042 0 0 1 0.17058,0.14482 z m 1.18528,-1.17035 c -0.49208,-0.4984 -1.29793,-0.5036 -1.7964,-0.0114 l -0.56516,0.55802 c -8.5e-4,8.5e-4 -0.003,0.003 -0.003,0.003 -0.49257,0.48904 -0.50454,1.29033 -0.008,1.79333 a 1.2740702,1.2740702 0 0 0 0.17058,0.14479 c 0.0533,0.0377 0.12569,0.0324 0.17211,-0.0134 l 0.17706,-0.17484 c 0.0703,-0.0693 0.1021,-0.16014 0.0993,-0.24846 a 0.13402248,0.13402248 0 0 0 -0.0573,-0.10571 c -0.0242,-0.0169 -0.0552,-0.041 -0.086,-0.0721 -0.2331,-0.23609 -0.23168,-0.61688 0.005,-0.85098 l 0.56516,-0.55792 c 0.23749,-0.2345 0.62241,-0.23063 0.85509,0.01 0.2304,0.23797 0.22064,0.61929 -0.0151,0.85201 l -0.11006,0.10868 c -0.0366,0.0361 -0.0488,0.0898 -0.0325,0.13862 0.0481,0.144 0.0737,0.29296 0.0782,0.44109 0.003,0.11624 0.14477,0.17181 0.22752,0.0901 l 0.31208,-0.30811 c 0.49847,-0.49208 0.5036,-1.29801 0.0114,-1.79639 z"
+           d="m 151.54552,123.07948 c 0.49612,0.50299 0.48417,1.30428 -0.008,1.79332 -8.5e-4,8.5e-4 -0.002,0.003 -0.003,0.003 l -0.56516,0.55801 c -0.49846,0.49216 -1.30431,0.48696 -1.79639,-0.0114 -0.49217,-0.49838 -0.48704,-1.30432 0.0114,-1.79641 l 0.31207,-0.30811 c 0.0827,-0.0817 0.22402,-0.0262 0.22753,0.0901 0.005,0.14815 0.0302,0.29711 0.0782,0.44111 0.0162,0.0488 0.004,0.1025 -0.0325,0.13862 l -0.11007,0.10867 c -0.2357,0.23272 -0.24547,0.61403 -0.0151,0.85201 0.23267,0.24033 0.6176,0.24419 0.85509,0.01 l 0.56516,-0.55793 c 0.23709,-0.23408 0.23852,-0.61488 0.005,-0.85098 -0.0308,-0.0311 -0.0618,-0.0553 -0.086,-0.0721 a 0.13402248,0.13402248 0 0 1 -0.0574,-0.10572 c -0.003,-0.0883 0.0291,-0.17913 0.0993,-0.24847 l 0.17707,-0.17483 c 0.0465,-0.0459 0.11885,-0.051 0.17211,-0.0134 a 1.2743042,1.2743042 0 0 1 0.17058,0.14482 z m 1.18528,-1.17035 c -0.49208,-0.4984 -1.29793,-0.5036 -1.7964,-0.0114 l -0.56516,0.55802 c -8.5e-4,8.5e-4 -0.003,0.003 -0.003,0.003 -0.49257,0.48904 -0.50454,1.29033 -0.008,1.79333 a 1.2740702,1.2740702 0 0 0 0.17058,0.14479 c 0.0533,0.0377 0.12569,0.0324 0.17211,-0.0134 l 0.17706,-0.17484 c 0.0703,-0.0693 0.1021,-0.16014 0.0993,-0.24846 a 0.13402248,0.13402248 0 0 0 -0.0573,-0.10571 c -0.0242,-0.0169 -0.0552,-0.041 -0.086,-0.0721 -0.2331,-0.23609 -0.23168,-0.61688 0.005,-0.85098 l 0.56516,-0.55792 c 0.23749,-0.2345 0.62241,-0.23063 0.85509,0.01 0.2304,0.23797 0.22064,0.61929 -0.0151,0.85201 l -0.11006,0.10868 c -0.0366,0.0361 -0.0488,0.0898 -0.0325,0.13862 0.0481,0.144 0.0737,0.29296 0.0782,0.44109 0.003,0.11624 0.14477,0.17181 0.22752,0.0901 l 0.31208,-0.30811 c 0.49847,-0.49208 0.5036,-1.29801 0.0114,-1.79639 z"
            id="path57390"
            style="fill:currentColor;stroke-width:0.00835709"
            inkscape:connector-curvature="0" />
@@ -646,7 +643,7 @@
        xml:space="preserve"
        id="flowRoot1423-09-4"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.41274722,57.600436)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-0.41274722,61.410439)"><flowRegion
          id="flowRegion1425-6-1"><rect
            id="rect1427-3-8"
            width="265.56"
@@ -664,7 +661,7 @@
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
            id="flowSpan13975"> To report bugs, create an issue on our code repo at:</flowSpan></flowPara><flowPara
          style="font-weight:bold;line-height:1.5"
-         id="flowPara13997">  github.com/HakCat-Tech/RubberNugget<flowSpan
+         id="flowPara13997">  github.com/HakCat-Tech/USB-Nugget<flowSpan
    style="font-weight:normal;line-height:1.5"
    id="flowSpan6115">.  </flowSpan></flowPara><flowPara
          style="font-weight:bold;line-height:1.5"
@@ -672,7 +669,11 @@
    id="flowSpan14007"
    style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'">·</flowSpan><flowSpan
    id="flowSpan13983"
-   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"> For more docs + info check out </flowSpan>docs.wifinugget.com </flowPara></flowRoot>
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"> For more docs + info check out <flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan43819">usbnugget</flowSpan></flowSpan><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold'"
+   id="flowSpan43821">.com</flowSpan> </flowPara></flowRoot>
     <text
        xml:space="preserve"
        transform="scale(1.0000019)"
@@ -699,7 +700,7 @@
            x="24"
            y="232.8" /></flowRegion><flowPara
          id="flowPara2307"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'">The RubberNugget is powered by DuckyScript and supports  existing RubberDucky and BashBunny payloads!  You can find official payloads &amp; commands in our Hak5 GitHub repo. </flowPara></flowRoot>
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'">The USB Nugget is powered by DuckyScript and supports  existing RubberDucky and BashBunny payloads!  You can find official payloads &amp; commands in our Hak5 GitHub repo. </flowPara></flowRoot>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -714,7 +715,7 @@
            style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
            id="tspan7670">Docs / Payloads: </tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
-           id="tspan2342">github.com/Hak5/RubberNugget-Payloads</tspan></tspan></text>
+           id="tspan2342">github.com/Hak5/USB-Nugget-Payloads</tspan></tspan></text>
     <g
        transform="translate(-0.4394496,17.317548)"
        id="g14130">
@@ -796,7 +797,7 @@
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583"
            y="47.519169"
            x="46.991299"
-           sodipodi:role="line">Quick 3-click payload </tspan><tspan
+           sodipodi:role="line">Quick payload </tspan><tspan
            id="tspan2176"
            style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold';stroke-width:0.264583"
            y="50.165005"
@@ -833,7 +834,7 @@
            width="259.19962"
            id="rect14138" /></flowRegion><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
-         id="flowPara14140">Thank you for buying a HakCat RubberNugget!  Your purchase helps us continue to develop open-source products and free educational content for the hacker + maker community.</flowPara><flowPara
+         id="flowPara14140">Thank you for buying a HakCat USB Nugget!  Your purchase helps us continue to develop open-source products and free educational content for the hacker + maker community.</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
          id="flowPara14142" /></flowRoot>
     <flowRoot
@@ -854,7 +855,7 @@
        inkscape:connector-curvature="0" />
     <g
        id="g26107"
-       transform="translate(1.3558053e-6,8.0996592)">
+       transform="translate(-0.4730133,9.525)">
       <g
          transform="translate(22.698013,1.2094474)"
          id="g13533">
@@ -1198,12 +1199,12 @@
            x="21.6"
            y="158.39999" /></flowRegion><flowPara
          id="flowPara15853"
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'">The RubberNugget is a cat-shaped USB attack tool that deploys keystroke injection payloads in seconds.  Use the </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'">The USB Nugget is a cat-shaped USB attack tool that deploys keystroke injection payloads in seconds.  Use the </flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;line-height:1.5;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
          id="flowPara15855">on-screen interface to monitor the status of your attacks!  Features of the RubberNugget include:</flowPara></flowRoot>
     <g
        id="g29661"
-       transform="translate(0,0.19999992)">
+       transform="translate(-2.593994e-6,0.63500019)">
       <flowRoot
          transform="matrix(0.26458333,0,0,0.26458333,6.985001,-0.10941303)"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
@@ -1216,7 +1217,7 @@
              width="237.60001"
              id="rect26113" /></flowRegion><flowPara
            style="font-weight:bold"
-           id="flowPara26117">Make sure your Nugget is up to date by flashing the latest firmware at flash.wifinugget.com</flowPara></flowRoot>
+           id="flowPara26117">Make sure your Nugget is up to date by flashing the latest firmware at flash.usbnugget.com</flowPara></flowRoot>
       <path
          style="stroke-width:0.00663191"
          inkscape:connector-curvature="0"
@@ -1237,14 +1238,6 @@
        height="95.25"
        x="3.175"
        y="3.175" />
-    <image
-       y="85.724998"
-       x="117.035"
-       id="image10833"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUcAAAB9CAYAAAAx36EUAAAAAXNSR0IArs4c6QAAEvlJREFUeF7t nWF25EQMhLMnAU4CnAQ4CXASlpMAJwFOsrzOjJMe2219ZckzzlB5b/9sNG11SV0qyfbk05cvX768 FP58+vTpbbV+afL/vRujz45cHW2jv+5o/f7/R36ObDJrjnwjeyR4ktA+Ch/Vf4IVyQGSk+Q4EP/V 3CD5f8S5UPMkgzPJbXIeyTklcdyy+WRyvIWHgF5FKOTAZw6MmvTqYSaHpMp/ghXxx+R4iQjJc0JS xOZssaOkaXKcIUWSxuR4AY2QkcnxPlhVKbLROuq5OFrhEn8oCQ73bOVo5biWHIT4iI3J0eRo5Xg9 BWQWQ6oKsVHbQNU+c/ir2o0qciGK4J74VOVJxueM+iD+q75lYm3lmNWJy8+7rXZbvZpVpDAQm8yB P6JAeuZ4iYhaGIi9WjDU4lEVO0qjJkeTo8lxY35KFDch8aMLiZUjpTxuZ3I0OZocTY4hY1g5hhDF BkRaq5W2aqCbkfGjGWJmTbKvqraUKKDMXlR8qvIk4zM58AQ3NZ+PwMrKMeYm1cLK0crRytHKMeQN UkhIwasiceJPuKnAwORocjQ5mhxDHiFkZHKM2NavDy4QyiSN2+oLAmQEQW56VN3xVGNKfMvEukqR qWOE0YiAjBoeNRIJK8HVwMrRytHK0cox5AsrxxCi2IBUVFJViI1aeVT7TLWvqqgZNeF3q5eq08px GxMrx3cErBytHK0crRxD1WPlGEIUG1g5LjEimMTI3n7RA1nTytHKkXQ/ap6oa55tXkzO2uuc2188 cQuVWiEzrTpJGrfVS4IbJXfm0BKCyIxKiG+ZWFdh4rbabTX6uq1MQmcOEkl0K8clSiRenjl65mjl eEVgpM7UgzQiOyvH7TFCRg0dcVPO5GhyNDmaHIfq+AiiV9dUlS8ZQagFj4xQ1DYzU4wzhYR0G6Sb UfdL1jxb7EyOJkeT40oOWDlaOZocTY4mR5NjarZOVCGxsXLcmYikDakCNzMfVNvGqqTJtFrkDizB n+xFxcdt9VLBZWLttprqQW7nR3lmWJE5VBWhENLPHBiT43YLSWKtzuAyuZGJtcmRkx61NDmaHFdz Rb25YeXIleARWJkcKeVxO5OjydHk6NcHQ8YgKpuMSqpInPgTbiowMDmaHE2OJseQRwgZmRwjtvX3 OS4QyiRNZg7lmaNnjpnxyKj9V9cks/XMmiTPQ/ZfMbBytHK0crRyDLnDyjGEKDYgKom8FkZsRqpK HXhnKqTqg7ovK8ftGx1V+Kvqg+S56lsm1lWzvNE6JseY+0ILkjSEIIhNVfKZHJdhVdsctSBV5Yma A35DZnvUYHJ8R8Bttdtqt9Vuq3eLHiIsPHO8olSlCKwct9WcijNRBBkVZuW43f4TJe62epmlVXke sv+KgZWjlaOVo5VjyB2eOYYQxQYq05PXrapk+T2VUVW7kVET5CYDwZ/sxcrRypGc/RGDEGVdNS+O WewaS/+ZhFuo1AqZIVxC+ibHbdKpwp8UElIkMsUmE+sq0iHjlwyRVflJziklweGeTY4mx7XkUA+A laOVo5VjQMcEIHKzhdioqkG1JwSRWdPK8YIeaZcIViRe5FpEcZA8V3PDynGJPMFZVf0kvs3GN2Rm SBG5nmmdVNLPHBiSNFV7sXK0ciRE5rb6igCp0uRwVqkGtZITJZJZk+zL5LhNOlX4k0IyKgCk4GVy 6Z6kM5y/Db4zIYPJo2Jn5XhFgJAvCbCqjMiaJke31SQ/TY48TyjxETu31W6rV/OEKB1iU6V8SSEh /pBuBh0c8O1TqjLKYFXVrlo5viNgcjQ5mhz9EHhYD9RZPBk1qMWjqrCFm526Tj/KcwuVmgRVASYB I8lB/D9iRKCuSVrFMx8w4r+aG1aOy1NAcFbnxeSsNRsrRytHK0crx5AvSNElRFbV/hN/wk0FBiZH k6PJ0eQY8gghI5NjxLZgUE3aJWJT1baMWkIy4Fd9UPeVabVIu0Hulh6BDzlIKlYkXmQ0ETJFa7lA nqu5kYl1lSIbrWNyJFlhcrw5GOoBUA985sCYHC/oESIjWJEikSk2mVibHAvIa95F+obMLSJqhTQ5 LpOSEIRKWH6U54KzWlxVNW3l+I6AZ47zaiG+CWByNDkSwiIkZeW4nUtVIxGqMU2OJsfVXCGHmdhk Djwhnari5LZ6mzLUjurMsTM5XhEgLR6ZJY1sqg4nCRipnCSJj9iLuqbb6gtiJD8JVqP8IQWMFAaS V/f0k/hDztSWjZWjlaOVox/lCXmEkJHJMYCRAEQkN7FRVZtqT6puZk1yk6GqLR2FjSiXI5R1VZ5U 4U/UE8Ehg2cm1laOIb/LBlaOVo5WjlaOIXFYOYYQxQZVisDKcYm1Z47b+UeUPsEwznL27KSqaq0c l8irfEJiR22sHK0crRytHEO+sHIMIYoNVKYnMxoymyOqQa3kR69J9pVRE2SORvAns7aRTZX/BCsS LyvHS0QI2WXifkTnVxW7mMWuGPkNmVuoSNJUEQo58FXkMkqIqr2YHJekoxbjTKxH8VULBskTdU2S 55k1iQighHiTxyZHk+Na4qjJanI0OZKusYrEiYjZQ4gmx40ZEwG9Sm2RippRE6SiVu3F5GhyNDkG dEwAIvMIYlPVtmRmK6oP6r5MjtukU4U/KSQkTzLFJhPrKkXmtvodAd+tnmWDleMFELfV2yqAiACV uE2OS8wJzmpho+22ydHkuJorJkeTI1HKxIaMj9R8IyKGkuBQLfuGzC00BPRM6+S2etkmk0c0znbA iKKxcjznSISSppWjlaOVox8CD/lCFQ2qCLByvIaAAEdsqiozaQ1GNqoP6r4ycygyi6lSwSo+RHmp WN3zgBH/1dzIxHrEbiomwxZT/BLoM8curARXAytHK0crRyvHkC+sHEOIYgNSUUlVITZVldnKcRnX jOIgarQqT9QcIPPNOMv9xRNrGJGYVilcQtYkjls2Vo5WjlaOVo4hjxAyMjkGMBKAiCokNqpqUO2J esqsSe7AZuZQnjle0FNzMmQKuKaaG5lYVykyzxzfEbBytHK0crRyDOuBlWMIUWygVml1PpWpkGol t3Jcoq0ekowaOqJ78MxxW01bOVo5Hv56XJ9kpGDEZWf8B90zB54UJ7KXkY3J8YJAptBm8odcVx2/ qGuS8VFmTeI/OV9zG7fVbqvdVrutDrlD7RjOrPrDzV4NTI4mR5OjyTHkC5NjCFFsQFoAUlWIjTpD VO2J1M+sSdqNqraUzJIye3FbvZzlqXhmYj2KL8lh0paaHGPuCy1MjkuICCYhsDN1Q9ZUk149zOTg ZQ78EQUyM58dFQDi59FYmRzJCdJs3Fa7rXZb7bY6ZA0rxxCi2EBVNORuKWk/M5WZKAK1bSRrkn1V KS+31RcErByX7b/aYZCzRtR0plMhZB2z1baFlaOVo5WjlWPII4SMiDCqav+JP+GmAgOTo8nR5Ghy DHmEkJHJMWLbwfe+qcAdIcszMt5tNW/H1FEJaXXJCCLT7pHWMjMqIb5lRihVioyMX8hejji/JE9C lhcMrBytHK0crRxDyrByDCGKDYhCJFWF2KhKULUnFTKzJlFDGTVB1BBReUQxqcq6Kk+q8CdYERwy eGZibeUYc5NqYeVo5WjlaOUY8oaVYwhRbFClCKwcl1iTmQtJYlXlEcWkrlmVJ1aO22eSdD9ENZO8 IjGtUrjEn5itti2sHK0crRytHEMeIWRkcgxgJAARVUhsVNWg2pOqm1nTM8cLeqoiPoP6IHmu5oZn jsvIEpyJ8g3Zf8XAytHK0crRyjHkDivHEKLYQGV6cnePKKyjVZ46UyNzOrKvjJogFZXgT/ai4lOV J6o6Iyo1znL2d2lU3zKxrlLTo3VMjiQrPlhbXbAlL3EAAio5HuCClyxGgMS0isQJWWe39/RtdRYg f/4YBMhBIsr3GO+86h4ESExNjlcESAtD2jrSfvog7Unnx32GHCTH9HHx2XNlElOTo8lxT279rz5D DpLJ8WOlBImpydHk+LGy+gHekoNkcnxAYBKXJDE1OZocEyn2//goOUgmx4+VCySmJkeT48fK6gd4 Sw6SyfEBgUlcksT0Kcjx8+fPL+3fP//88/Lvv/++fPXVVy9ff/31y3fffffyyy+/DCEkAJG3X4hN 70TVQWp7+/XXX1+X3rvm3jUa1hPmf/755yvu7afH/scff3yNg/rT1v3pp5/ePra1t+ZHu/70r/ej xb/9a35kftQ82XOtUQ4334n/R8Vjb36sYUDjSm5qqsQ1tycxVa9B1txzTglui0d5WkK0xPnrr7+G +dgOa1u8HZI9ABHiIzZHkGMjnokM9oDefNqzRsNyC/N+r3/88ccq9qOANZL7/vvvb3492hv149tv v33NgT1E3Rw5Kunb2i2H2z6mOK7hEvlPcWhrq/HYkx9re1DianJ8R5DitiDHPnBb1boRZLvI3sOx Rwkc9Zl2mNq/VtF7glLIMbuGmrz0QDa/vvnmmwV06htFa9i3HGjrn+mHEOPk75b/1fHI5scc4yPj Or+Wcg7OlAtrvii43ZBjL/fbwj///POrimwEOLUYU8vZfv/DDz+8qoeP/LN1CGhSVK7RFE3DvCmX qfBM7W2PfbNr/7/10xPFb7/9htrqaS9zP0aHu+XI1pjl3rmh5vDI/xEObT9qPCryo8dxT1zVOFSp W/W6R9qruN2QYw9IO0xrc5k++c6oHFRwKxK3Yo1plrs2qpj21M9JIuz7RJgIgLxyRfxoefH777+/ ukVIWo1Jxr7f40hdExwJDmSdtpeK/Jgw2RtXBdP+jD+DAGp734PbDTn2Qfz7779XW+a5LKXqSgnO PW0rErdiDbpnQnBtrWlm1isj+tnIl7PmQD9Liki7nynSEcUaLgTTyvw4Mq4TiUxjmGcane3Bbagc R+TYV8JIvUSH7Iy/J8ke+V2xxto1elLaOvxTIsyrfqVflWtFeNLf94pn1PlMa/W2e0cDNB5z//di d4+49l1BhCGNy6Pt9uJ2Q459NR3J6T4hnkVy98Hbm7jVa6wlVJ+4I7Uz2ayRZ8Xe1tTFWW7KKGpQ UZmjw03isVdtzj/3f45rhlwzuN2Q4/wW99rjDn3FzbQjmQ0f+dkKAqlYo58xtbi0+dZ0Jz2aB49U ZZVf/aztTAWyn5lvdT4Zgp+eASXxGOWpGofpzB0dV6W4HHkGq9bO4rZ4lGf+cGRztB2A6ebM9Lzc 3lakauNHraMmbpUy2Gq92u/aCGO6SbD2+NQUt605UcXemi/9ITpT66XeYZ3wIOOh+dwwisdWfipx uFdcK5T0UWdyz7oVuK1+n2P0rNizEmMLgpK4VcogItj2++nRmrUnCEgiVO2tL57RTY89SZ35jBo7 xX5OjlvxiPZAr3vPuCqqO9rfo39fhduCHFsFmR6Gnqrj9NjGtOmtN2QeDUz2+jRxq5QBIdjeZg37 yedozJHd2/wuddS6ZmOhfl7dn2I/uuO85yzQ694rrs/26E4VbsOZYz9Lmh4Ab4zcv5J1ppZKPUiE lPY+pkSTn/g8PXzdsJ+K1Lx13npUhFyD7HPeTZwx9iruqn3DksQjwpxe915xfbZHd6pweyNH+ljC /A2ESK1EiXK239PEPVo5rq3f3x3ti1dVMmztqZ8znnWscuTMUYlHlNM0x+4R12d8dKcKtzdyVB5L 6AnybHOnKDGj39PEfQQ59gWsv4lQlQyjPZFHvCJc7/F7ZW42wlLxc+8aNMeOjute/xWMHmFbhdsb OSpV91lBbYGkifsIcsz6t2dvH4UYGzbKoyhVd2f3YLrnM0fkm4LXI0ju6GtGcXgjx96QDNqjhY/e 2FHrV+yrYo21/WVf21P9+kjE2PB65Bsy7fpkdpstcGt5oca1rVFVHI46h/dYN8JtVTlGw/YeWPKM 2D02WnWNCDBynYo11q6TfYyG+tVIuP9OzzM96L2Fv3LgK1TT3njQOJBc20u2ygiC+vHR7KI4rM4c oxfOP5qiUIIWAUbWUtdoiTr68uDpevO7xXtuihC/Kq5DMDrKpt8j+VaeNcV3dDxIHBR81PXO+oaT sucK2wi3N3KcvzrYCLK1KdP3Ck6vTbX/6x/nIS14xUbutUYEGPFDXWOybze3Gt4T5tP3aE7PnmZx J371imIPARN8jrSp+D7Ho+NB4qBgpKzXF79IBCk+fETbCLfNL7uNNhy139Hnz/D7HqDIn4pvz15b Q/Gh+bj38akoGeYtWoRH/3s6b1PW3GurfJv92pdmVMdDWW8PjiSuE5b9UykfsfjtzYm1z0W4Ld6Q mVfekTPPQIwqGRxFjvTvlex5G6OPX5QMKh5nJcfo9dfm95Zqqo7HWcjxmZ8y2UOa0XkYvlvd5hKt nWuAzv/64N6/gLdnA0d/piJxK9aY3kKaxhdrf3kw++cIomR4FnKccibz1wcr41GRH1vngMS1fb7i JtTR5/Ge60e4rZLjPR30tYyAETACZ0TA5HjGqNgnI2AEHo6AyfHhIbADRsAInBEBk+MZo2KfjIAR eDgC/wEfN/DxanTRYQAAAABJRU5ErkJggg== "
-       preserveAspectRatio="none"
-       height="12.599"
-       width="31.785002" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1259,35 +1252,68 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="6.9850001"
-       y="77.470001"
+       x="5.7150002"
+       y="78.105003"
        id="text10328-3-7"><tspan
          sodipodi:role="line"
          id="tspan10326-6-5"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
-         x="6.9850001"
-         y="77.470001">About the USB Nugget</tspan></text>
+         x="5.7150002"
+         y="78.105003">USB Nugget Payloads</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="79.375"
-       y="71.754997"
+       y="74.93"
        id="text10328-3-3"><tspan
          sodipodi:role="line"
          id="tspan10326-6-56"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
          x="79.375"
-         y="71.754997">About the USB Nugget</tspan></text>
+         y="74.93">Development &amp; More</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="79.375"
-       y="10.16"
+       y="10.795"
        id="text10328-3-2"><tspan
          sodipodi:role="line"
          id="tspan10326-6-9"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
          x="79.375"
-         y="10.16">About the USB Nugget</tspan></text>
+         y="10.795">Using the USB Nugget</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.29167px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="79.375"
+       y="53.34"
+       id="text10328-3-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan10326-6-56-6"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:5.29167px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
+         x="79.375"
+         y="53.34">Web Interface</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="50.799999"
+       y="17.110003"
+       id="text10328-3-75"><tspan
+         sodipodi:role="line"
+         id="tspan10326-6-3"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
+         x="50.799999"
+         y="17.110003">usbnugget.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="26.035"
+       y="17.11022"
+       id="text10328-3-75-5"><tspan
+         sodipodi:role="line"
+         id="tspan10326-6-3-6"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
+         x="26.035"
+         y="17.11022">hakcat_tech</tspan></text>
   </g>
 </svg>
