@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="USB-Nugget.svg"
+   sodipodi:docname="v1.0-INFO-LABEL-USB-Nugget.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -41,9 +41,9 @@
      showgrid="true"
      units="in"
      width="6in"
-     inkscape:zoom="1.1523547"
-     inkscape:cx="236.90622"
-     inkscape:cy="331.06126"
+     inkscape:zoom="2.0038365"
+     inkscape:cx="360.30883"
+     inkscape:cy="223.82065"
      inkscape:window-width="1846"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -527,7 +527,7 @@
        xml:space="preserve"
        id="flowRoot1423-09"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,-0.634999,42.240002)"><flowRegion
+       transform="matrix(0.26458333,0,0,0.26458333,-0.634999,42.875002)"><flowRegion
          id="flowRegion1425-6"><rect
            id="rect1427-3"
            width="261.60001"
@@ -563,7 +563,7 @@
    style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
    id="flowSpan7688"> in a web browser</flowSpan></flowPara></flowRoot>
     <g
-       transform="matrix(0.7655135,0,0,0.7655135,-68.187895,-78.518364)"
+       transform="matrix(0.7655135,0,0,0.7655135,-67.171367,-78.840336)"
        id="g2301">
       <g
          id="g2286"
@@ -574,7 +574,7 @@
            style="fill:currentColor;stroke-width:0.00835709"
            inkscape:connector-curvature="0" />
         <path
-           d="m 119.83731,122.60227 c 0.004,0.0465 0.004,0.0931 0.004,0.13961 0,1.41934 -1.0803,3.05476 -3.05476,3.05476 -0.60829,0 -1.17337,-0.17618 -1.64871,-0.48197 0.0864,0.01 0.16952,0.0133 0.25927,0.0133 0.50192,0 0.96396,-0.16952 1.33292,-0.45871 -0.47201,-0.01 -0.86756,-0.31911 -1.00384,-0.74459 0.0665,0.01 0.13296,0.0167 0.20277,0.0167 0.0964,0 0.19279,-0.0133 0.28254,-0.0366 -0.49195,-0.0997 -0.86094,-0.53185 -0.86094,-1.05371 v -0.0133 c 0.14294,0.0798 0.30915,0.12963 0.4853,0.13628 -0.28918,-0.19281 -0.47864,-0.52188 -0.47864,-0.89417 0,-0.19944 0.0532,-0.38225 0.14625,-0.54181 0.52851,0.65151 1.32297,1.07697 2.21379,1.12351 -0.0167,-0.0798 -0.0267,-0.16286 -0.0267,-0.24597 0,-0.59168 0.47868,-1.07365 1.07366,-1.07365 0.30913,0 0.58835,0.12965 0.78447,0.33905 0.24264,-0.0465 0.47532,-0.13629 0.68142,-0.25928 -0.0798,0.24931 -0.2493,0.45873 -0.47201,0.59168 0.21607,-0.0234 0.42548,-0.0831 0.61827,-0.16619 -0.14624,0.21272 -0.32907,0.40218 -0.53849,0.5551 z"
+           d="m 117.60912,122.63703 c 0.004,0.0465 0.004,0.0931 0.004,0.13961 0,1.41934 -1.0803,3.05476 -3.05476,3.05476 -0.60829,0 -1.17337,-0.17618 -1.64871,-0.48197 0.0864,0.01 0.16952,0.0133 0.25927,0.0133 0.50192,0 0.96396,-0.16952 1.33292,-0.45871 -0.47201,-0.01 -0.86756,-0.31911 -1.00384,-0.74459 0.0665,0.01 0.13296,0.0167 0.20277,0.0167 0.0964,0 0.19279,-0.0133 0.28254,-0.0366 -0.49195,-0.0997 -0.86094,-0.53185 -0.86094,-1.05371 v -0.0133 c 0.14294,0.0798 0.30915,0.12963 0.4853,0.13628 -0.28918,-0.19281 -0.47864,-0.52188 -0.47864,-0.89417 0,-0.19944 0.0532,-0.38225 0.14625,-0.54181 0.52851,0.65151 1.32297,1.07697 2.21379,1.12351 -0.0167,-0.0798 -0.0267,-0.16286 -0.0267,-0.24597 0,-0.59168 0.47868,-1.07365 1.07366,-1.07365 0.30913,0 0.58835,0.12965 0.78447,0.33905 0.24264,-0.0465 0.47532,-0.13629 0.68142,-0.25928 -0.0798,0.24931 -0.2493,0.45873 -0.47201,0.59168 0.21607,-0.0234 0.42548,-0.0831 0.61827,-0.16619 -0.14624,0.21272 -0.32907,0.40218 -0.53849,0.5551 z"
            id="path57507"
            style="fill:currentColor;stroke-width:0.0102317"
            inkscape:connector-curvature="0" />
@@ -704,18 +704,16 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;line-height:1.25;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="5.9105501"
-       y="93.758316"
+       x="6.3499999"
+       y="93.980003"
        id="text2317-4"><tspan
          sodipodi:role="line"
          id="tspan2315-1"
-         x="5.9105501"
-         y="93.758316"
-         style="font-weight:bold;stroke-width:0.264583"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Ultra-Bold'"
-           id="tspan7670">Docs / Payloads: </tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
-           id="tspan2342">github.com/Hak5/USB-Nugget-Payloads</tspan></tspan></text>
+         x="6.3499999"
+         y="93.980003"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';stroke-width:0.264583">Docs &amp; More: <tspan
+   style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Semi-Bold'"
+   id="tspan15650">github.com/HakCat-Tech/USB-Nugget-Payloads</tspan></tspan></text>
     <g
        transform="translate(-0.4394496,17.317548)"
        id="g14130">
@@ -1215,9 +1213,10 @@
              x="300"
              height="24.15353"
              width="237.60001"
-             id="rect26113" /></flowRegion><flowPara
+             id="rect26113"
+             style="stroke-width:1" /></flowRegion><flowPara
            style="font-weight:bold"
-           id="flowPara26117">Make sure your Nugget is up to date by flashing the latest firmware at flash.usbnugget.com</flowPara></flowRoot>
+           id="flowPara26117">Keep your Nugget up to date by flashing the latest firmware at hakcat-tech.github.io/esp-web-flasher/</flowPara></flowRoot>
       <path
          style="stroke-width:0.00663191"
          inkscape:connector-curvature="0"
@@ -1296,24 +1295,24 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="50.799999"
-       y="17.110003"
+       x="51.435001"
+       y="17.145"
        id="text10328-3-75"><tspan
          sodipodi:role="line"
          id="tspan10326-6-3"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
-         x="50.799999"
-         y="17.110003">usbnugget.com</tspan></text>
+         x="51.435001"
+         y="17.145">usbnugget.com</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-       x="26.035"
-       y="17.11022"
+       x="24.764999"
+       y="17.145"
        id="text10328-3-75-5"><tspan
          sodipodi:role="line"
          id="tspan10326-6-3-6"
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:2.82222px;font-family:MuseoModerno;-inkscape-font-specification:'MuseoModerno Medium';stroke-width:0.264583"
-         x="26.035"
-         y="17.11022">hakcat_tech</tspan></text>
+         x="24.764999"
+         y="17.145">@hakcat_tech</tspan></text>
   </g>
 </svg>
